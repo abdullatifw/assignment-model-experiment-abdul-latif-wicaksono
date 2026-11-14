@@ -1,0 +1,5 @@
+Pendekatan,Accuracy,Precision (macro),Recall (macro),F1-Score (macro),Recall negatif
+Model Klasik - Skenario A,1.0,1.0,1.0,1.0,1.0
+LLM API - Skenario A,1.0,1.0,1.0,1.0,1.0
+Model Klasik - Skenario B,0.6905,0.7903,0.7292,0.6816,0.4583
+LLM API - Skenario B,1.0,1.0,1.0,1.0,1.0

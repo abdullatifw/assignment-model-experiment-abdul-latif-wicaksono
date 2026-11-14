@@ -1,0 +1,11 @@
+review_id,review_text,jawaban_llm,latency_detik,input_tokens,output_tokens
+U01,"Barangnya lumayan, tidak buruk untuk harga segini.",positif,2.5525734424591064,146,2
+U02,"Gak nyesel beli di sini, seller amanah.",positif,1.6422202587127686,147,2
+U03,Harga murah tapi kualitas tidak murahan.,positif,1.4262137413024902,142,2
+U04,"Awalnya ragu, ternyata kualitasnya jauh di atas ekspektasi.",positif,1.4224035739898682,150,2
+U05,"Recommended banget gan, barang ori.",positif,1.86295747756958,141,2
+U06,"Bagus sih desainnya, tapi baru seminggu sudah patah.",negatif,1.3102188110351562,149,2
+U07,"Mantap, nunggu sebulan baru nyampe. Hebat sekali ekspedisinya.",negatif,1.2045586109161377,153,2
+U08,"Kurirnya ramah, tapi isi paketnya salah dan seller tidak mau tanggung jawab.",negatif,1.373823642730713,151,2
+U09,"Jelek parah, jangan beli di toko ini.",negatif,4.011992931365967,146,2
+U10,"Warnanya pudar setelah sekali dicuci, nyesel beli.",negatif,1.0928459167480469,148,2
